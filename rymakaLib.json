@@ -18,6 +18,15 @@
       "uploadDate": "2025-10-16T23:54:18.000Z"
     },
     {
+      "title": "Ninja Gaiden 4 [P] [RUS + ENG + 12 / ENG + 1] (2025, Action) (1.0.41934.0 + 1 DLC) [Portable]",
+      "uris": [
+      "magnet:?xt=urn:btih:62C8F7EE549D2DE527642F2062A61225ED349051&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2025-10-21T04:07:00.000Z",
+      "fileSize": "54.62 GB",
+      "repackLinkSource": "https://rutracker.org/forum/viewtopic.php?t=6760783"
+    },
+    {
       "fileSize": "23.5 GB",
       "uris": [
         "magnet:?xt=urn:btih:1b24171e2d33af3a324c37c5244430754bd4c781&dn=Call+To+Arms+Panzer+Elite&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
@@ -16306,4 +16315,5 @@
       "uploadDate": "2024-09-18T09:08:40.000Z"
     }
   ]
+
 }
